@@ -1,15 +1,14 @@
-## 李东伯的个人博客
+## Dongbo Li
 
 
 
-### 副标题
-
+### Education
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# 抬头
+# Acedemic
 ## Header 2
 ### Header 3
 
